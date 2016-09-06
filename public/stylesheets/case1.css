@@ -1,0 +1,22 @@
+.share-comment{background-color: lightgray;}
+.share-comment.share-button{margin-left: 5px;}
+.comment-buttons ul li{
+    margin-right: 8px;
+}
+
+.comment-buttons ul .settings li{
+    float: right;
+    font-size: 16px;
+}
+
+.nav-tabs {
+    border-bottom: 0px solid #ddd !important; 
+}
+
+.h-divider{
+margin-top:5px;
+ margin-bottom:5px;
+ height:1px;
+ width:100%;
+ border-top:1px solid gray;
+}
